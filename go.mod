@@ -6,6 +6,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9 // indirect
 	github.com/imdario/mergo v0.3.8 // indirect
 	github.com/jetstack/cert-manager v0.12.0
+	github.com/mitchellh/gox v1.0.1 // indirect
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.5
 	golang.org/x/net v0.0.0-20191207000613-e7e4b65ae663 // indirect
